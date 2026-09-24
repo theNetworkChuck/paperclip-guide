@@ -54,7 +54,7 @@ flowchart TD
     ceo --> helpdesk
     ceo --> filch
 
-    classDef you fill:#111,stroke:#111,color:#fff;
+    classDef you fill:#f97316,stroke:#c2410c,color:#fff;
     classDef boss fill:#fff4d6,stroke:#c79a2c,color:#111;
     classDef hermes fill:#e8f1ff,stroke:#3b6fd4,color:#111;
     classDef codex fill:#eafaf0,stroke:#2f9e5b,color:#111;
@@ -72,7 +72,7 @@ And here's that department as Paperclip draws it (a clean test install on 2026.9
 
 <table>
 <tr>
-<td width="50%"><img src="assets/screenshots/agents.png" alt="The Agents page"></td>
+<td width="50%"><img src="assets/screenshots/agents-roster.png" alt="The Agents page"></td>
 <td width="50%"><img src="assets/screenshots/task-properties.png" alt="A task's Properties panel"></td>
 </tr>
 <tr>
